@@ -3,10 +3,12 @@ Metagenome assembly and phylogenetic tree analysis using R and MEGAHIT
 # Metagenome Assembly and Phylogenetic Analysis
 
 ## Background
-Next-generation sequencing (NGS) allows researchers to study viral genomes and understand their evolutionary relationships. By comparing genome sequences, phylogenetic trees can be constructed to determine how closely related different samples are.
+The sequences analyzed in this project were identified using BLAST as belonging to Zaire ebolavirus, a species of the Ebola virus. Ebola virus is a negative-sense RNA virus that causes Ebola virus disease (EVD), a severe and often fatal hemorrhagic fever in humans. Outbreaks of EVD have occurred primarily in Africa, including a major outbreak in West Africa beginning in 2013.
+
+Ebola virus has a relatively conserved genome of approximately 19 kb and evolves through mutations that can influence viral behavior and disease outcomes. Understanding genomic variation between viral isolates is important for studying transmission, evolution, and the development of medical countermeasures.
 
 Reference:
-Holmes EC. 2009. The Evolution and Emergence of RNA Viruses. Oxford University Press.
+Kugelman JR, Rossi CA, Wiley MR, et al. (2016). Informing the Historical Record of Experimental Nonhuman Primate Infections with Ebola Virus. *PLOS ONE*, 11(3): e0150919. https://doi.org/10.1371/journal.pone.0150919
 
 ---
 
