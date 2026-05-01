@@ -32,7 +32,7 @@ The phylogenetic tree is shown below:
 ---
 
 ## Data and Files
-All raw sequencing data and MEGAHIT assembly outputs are included in the repository as a compressed file (alex.zip & alex.zip2) due to file size limitations.
+All raw sequencing data and MEGAHIT assembly outputs are included in the repository as a compressed file (alex.zip & alex.zip 2) due to file size limitations.
 
 The full alignment can be viewed in the HTML file:
 final_project.html
